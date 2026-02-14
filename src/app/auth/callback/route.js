@@ -24,6 +24,5 @@ export async function GET(request) {
     }
   }
 
-  // If error or no code, redirect to home
   return NextResponse.redirect(`${origin}/`)
 }
