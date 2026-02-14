@@ -6,7 +6,7 @@ A real-time bookmark manager built with Next.js, Supabase, and Tailwind CSS that
 
 **Vercel URL:** [Your deployed URL here]
 
-**GitHub Repository:** [Your repo URL here]
+**GitHub Repository:** [https://github.com/sandhit999/supabase-bookmark-app]
 
 ---
 
