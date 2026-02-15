@@ -24,5 +24,6 @@ export async function GET(request) {
     }
   }
 
-  return NextResponse.redirect(`${origin}/`)
+  // If error or no code, redirect to auth page
+  return NextResponse.redirect(`${origin}/auth`)
 }
